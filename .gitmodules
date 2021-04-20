@@ -1,9 +1,3 @@
 [submodule "themes/onedly"]
 	path = themes/onedly
 	url = https://github.com/cdeck3r/OneDly-Theme.git
-[submodule "themes/osprey-delight"]
-	path = themes/osprey-delight
-	url = https://github.com/kdevo/osprey-delight.git
-[submodule "themes/themes/osprey-delight"]
-	path = themes/themes/osprey-delight
-	url = https://www.github.com/vgiles/osprey-delight
