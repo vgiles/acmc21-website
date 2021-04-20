@@ -1,6 +1,6 @@
-baseurl = "https://example.com/"
+baseurl = "https://acmc21.art"
 languageCode = "en-us"
-title = "OneDly Project"
+title = "ACMC2021"
 theme = "onedly"
 
 #
@@ -8,25 +8,25 @@ theme = "onedly"
 #
 [params]
     # project specific params
-    description = "One-Day-Only (OneDly) project documentation."
-    author_url = "//cdeck3r.com"
-    author_name = "cdeck3r"
-    project_url = "//github.com/cdeck3r/OneDly-Theme"
+    description = "Australasian Computer Music Association Annual Conference 2021"
+    # author_url = "//cdeck3r.com"
+    # author_name = "cdeck3r"
+    # project_url = "//github.com/cdeck3r/OneDly-Theme"
 
     # optionally specify where the content is
     # mainSections = ["post"] 
 
     # social share links to appear at the end
-    socialShare          = true
-    # Sets specific share to appear on posts (default behavior is to appear)
-    socialShareTwitter   = true
-    socialShareGoogleplus = true
-    socialShareFacebook  = true
-    socialShareReddit    = true
-    socialShareLinkedin  = true
-    socialShareStumbleupon = true
-    socialSharePinterest = true
-    socialShareEmail = true
+    # socialShare          = true
+    # # Sets specific share to appear on posts (default behavior is to appear)
+    # socialShareTwitter   = true
+    # socialShareGoogleplus = true
+    # socialShareFacebook  = true
+    # socialShareReddit    = true
+    # socialShareLinkedin  = true
+    # socialShareStumbleupon = true
+    # socialSharePinterest = true
+    # socialShareEmail = true
 
     # theme's color scheme
     first_color="#f8f8f8"
@@ -47,51 +47,51 @@ theme = "onedly"
 # username unless otherwise noted. Icons appear at the top of the page.
 #
 [social]
-    # Coding Communities
-    github           = "cdeck3r/OneDly-Theme"
-    gitlab           = ""
-    stackoverflow    = "" # User Number
-    bitbucket        = ""
-    jsfiddle         = ""
-    codepen          = ""
-    # Visual Art Communities
-    deviantart       = ""
-    flickr           = ""
-    behance          = ""
-    dribbble         = ""
-    # Publishing Communities
-    wordpress        = ""
-    medium           = ""
-    # Professional/Business Oriented Communities
-    linkedin         = ""
-    linkedin_company = ""
-    foursquare       = ""
-    xing             = ""
-    slideshare       = ""
-    # Social Networks
-    facebook         = ""
-    googleplus       = ""
-    reddit           = ""
-    quora            = ""
-    youtube          = "channel/UCZ5wNVV_E6AA3L3C-mvqwSA"
-    vimeo            = ""
-    whatsapp         = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat         = ""
-    qq             = "" # User ID Number
-    instagram        = ""
-    tumblr           = ""
-    twitter          = "cdeck3r"
-    skype            = ""
-    snapchat         = ""
-    pinterest        = ""
-    telegram         = ""
-    vine             = ""
-    googlescholar    = ""
-    orcid            = ""
-    researchgate     = ""
-    # Email
-    email = "info@cdeck3r.com"
+    # # Coding Communities
+    # github           = "cdeck3r/OneDly-Theme"
+    # gitlab           = ""
+    # stackoverflow    = "" # User Number
+    # bitbucket        = ""
+    # jsfiddle         = ""
+    # codepen          = ""
+    # # Visual Art Communities
+    # deviantart       = ""
+    # flickr           = ""
+    # behance          = ""
+    # dribbble         = ""
+    # # Publishing Communities
+    # wordpress        = ""
+    # medium           = ""
+    # # Professional/Business Oriented Communities
+    # linkedin         = ""
+    # linkedin_company = ""
+    # foursquare       = ""
+    # xing             = ""
+    # slideshare       = ""
+    # # Social Networks
+    # facebook         = ""
+    # googleplus       = ""
+    # reddit           = ""
+    # quora            = ""
+    # youtube          = "channel/UCZ5wNVV_E6AA3L3C-mvqwSA"
+    # vimeo            = ""
+    # whatsapp         = "" # WhatsApp Number
+    # # WeChat and QQ need testing.
+    # wechat         = ""
+    # qq             = "" # User ID Number
+    # instagram        = ""
+    # tumblr           = ""
+    # twitter          = "cdeck3r"
+    # skype            = ""
+    # snapchat         = ""
+    # pinterest        = ""
+    # telegram         = ""
+    # vine             = ""
+    # googlescholar    = ""
+    # orcid            = ""
+    # researchgate     = ""
+    # # Email
+    # email = "info@cdeck3r.com"
 
 #
 # Adjust privacy settings
