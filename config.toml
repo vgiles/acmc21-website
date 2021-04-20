@@ -1,5 +1,5 @@
 title = "ACMC2021"
-baseURL = "http://acmc21.art"
+baseURL = "https://compassionate-meitner-44354d.netlify.app"
 languageCode = "en-US"
 theme = "osprey-delight"
 tags = ["personal", "homepage", "portfolio"]
