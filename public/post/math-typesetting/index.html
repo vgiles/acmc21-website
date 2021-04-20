@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="
+		A brief guide to setup KaTeX
+		"> 
+    
+	<meta name="author" content=" map[] ">  
+    <base href="https://acmc21.art">
+    <title>Math Modeling</title>
+
+    
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <link href="css/landing-page.css" rel="stylesheet">
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    
+    <link href="css/bootstrap-social.css" rel="stylesheet">
+
+    
+    
+    
+
+    <style>
+    .navbar {
+    border-color: #e7e7e7;
+}
+
+.content-section-a,
+footer,
+.navbar {
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+.navbar a:link,
+.navbar-default .navbar-nav>li>a {
+  color: #777;
+}
+
+.navbar a:hover,
+.navbar-default .navbar-nav>li>a:hover {
+  color: rgb(51, 51, 51);
+}
+
+.content-section-b {
+  background-color: white;
+  color: #333;
+}
+
+body {
+  color: rgb(51, 51, 51);
+}
+
+.header-container h1,
+.header-container h2,
+.header-container h3,
+.header-container h4 {
+  color: rgb(51, 51, 51);
+}
+ 
+  </style>
+
+</head>
+<body>
+
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        
+        <div class="navbar-header page-scroll" style="margin-left: -15px;">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="margin-right: 0px;">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" style="padding-left: 0px;margin-left: 0px;" href="#intro">
+            ACMC2021</a>
+        </div>
+        
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+				 
+				 
+            </ul>
+        </div>
+        
+    </div>
+    
+</nav>
+
+
+<section id="services">
+   <div class="content-section-a">
+
+      <div class="container">
+
+        <div class="row">
+          <div>
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading">Math Modeling</h2>
+            <p><em>Source: content taken from <a href="https://github.com/gohugoio/hugoBasicExample">hugoBasicExample</a>. File: <code>math-typesetting.mmark</code></em></p>
+
+<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:<br></li>
+</ul>
+<pre><code>{{ if or .Params.math .Site.Params.math }}
+{{ partial &#34;math.html&#34; . }}
+{{ end }}</code></pre>
+<ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project's configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files.</li>
+</ul>
+
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a>
+</p>
+
+<h3 id="examples">Examples</h3>
+
+<p>Inline math: <span  class="math">\( \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… \)</span></p>
+
+<p>Block math:</p>
+
+<p><span  class="math">\[
+ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+\]</span></p>
+        </div>
+    </div>
+
+</div>
+</div>
+
+</section>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8" style="padding-left: 0px; width:100%">
+				<ul class="list-inline">
+					<li>
+						<a class="page-scroll" href="#intro">Up</a>
+					</li>
+					<li class="footer-menu-divider">&sdot;</li>
+						<li>
+							<a href="https://acmc21.art/imprint-gdpr/imprint" >Imprint</a>
+						</li>
+					<li class="footer-menu-divider">&sdot;</li>
+						<li>
+							<a href="https://acmc21.art/imprint-gdpr/gdpr" >GDPR</a>
+						</li>
+				 </ul>
+				 <p class="copyright text-muted small" style="text-align:left;">
+                    Copyright &copy; ACMC2021 All Rights Reserved 
+                        </br>Built with <a href="http://gohugo.io">Hugo</a> and the <a href="https://github.com/cdeck3r/OneDly-Theme">OneDly project</a> theme.
+                 </p>
+			</div>
+            
+        </div>
+    </div>
+</footer>
+
+<script src="js/jquery-1.11.0.js"></script>
+
+
+<script src="js/jquery.easing.min.js"></script>
+
+
+<script src="js/bootstrap.min.js"></script>
+
+
+
+</body>
+</html>
+

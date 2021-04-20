@@ -1,138 +1,103 @@
-baseurl = "https://acmc21.art"
-languageCode = "en-us"
-title = "ACMC2021"
-theme = "onedly"
+title = "Osprey Delight Demo"
+baseURL = "https://example.com"
+languageCode = "en-US"
+theme = "osprey-delight"
+tags = ["personal", "homepage", "portfolio"]
+# canonifyURLS = true
+# googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+enableEmoji = true
+pygmentsUseClasses = true
 
-#
-# Personalization params
-#
-[params]
-    # project specific params
-    description = "Australasian Computer Music Association Annual Conference 2021"
-    # author_url = "//cdeck3r.com"
-    # author_name = "cdeck3r"
-    # project_url = "//github.com/cdeck3r/OneDly-Theme"
+## Generic theme parameters:
+[Params]
+  author = "kdevo"
+  email = ""
+  description = "osprey-delight example site"
+  tagline = "Hi there! Check out this theme."
+  logoBig = "/images/osprey-delight-logo.png"
+  # [str] This is the logo that will be shown in the left corner of the nav bar.
+  #   Usually, you would like to use something bigger than a favicon - but not too big either.
+  #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting! 
+  logoSmall = "favicon.png"
+  favicon = "favicon.png"
+  opengraphImage = "/images/osprey-delight.png"
+  googleTagManager = ""
+  # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
+  #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
+  #   This file will contain only a redirect directive if this switch is enabled.
+  #   Make sure that you do not enable this switch if you also set useBlog to true. 
+  enforceSinglePage = false
+  # [bool] Will generate copyright notice in footer for your site.
+  copyright = true
+  # [bool] Your credit is much appreciated. It will be displayed in a small way in your footer.
+  #   Anyways, of course you're free to uncomment the following line to disable the credit.
+  # credit = false
 
-    # optionally specify where the content is
-    # mainSections = ["post"] 
+## Social media links in footer:
+[Params.Social]
+  # [str] Link to your Twitter.
+  twitter = ""
+  # [str] Link to your LinkedIn.
+  linkedin = ""
+  # [str] Link to your GitHub.
+  github = "https://github.com/kdevo/osprey-delight"
+  # [str] Link to your Facebook.
+  facebook = ""
+  # [str] Link to your Instagram.
+  # instagram = ""
+  # [str] Link to your StackOverflow.
+  stackoverflow = ""
 
-    # social share links to appear at the end
-    # socialShare          = true
-    # # Sets specific share to appear on posts (default behavior is to appear)
-    # socialShareTwitter   = true
-    # socialShareGoogleplus = true
-    # socialShareFacebook  = true
-    # socialShareReddit    = true
-    # socialShareLinkedin  = true
-    # socialShareStumbleupon = true
-    # socialSharePinterest = true
-    # socialShareEmail = true
 
-    # theme's color scheme
-    first_color="#f8f8f8"
-    first_border_color="#e7e7e7"
-    first_text_color="#333"
+## Theme features:
+[Params.Feat]
+  # [bool] Termynal (https://github.com/ines/termynal) is a small JS library for showing a terminal "animation" from within your gallery item.
+  #   The library has been stripped-down to a minimum to only have the necessary functionality.
+  useTermynal = true
+  # [bool] Lazy loading of images with lazysizes (SEO-friendly).
+  lazyloading = true
+  # [str] Use Basin contact form.
+  ajaxBasin = "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
+  googleTagManager = ""
+  # [bool] Enable usage of your own 'assets/scss/_custom.css'.
+  customCSS = false
+  # [bool] Use structured data for your own https://schema.org/Person (SEO-friendly).
+  #   The theme attempts to "guess" your information by using the information you give it in the configuration.
+  #   For more specific usage, you can override the JSON-LD by supplying your own 'person.json' under 'assets/'
+  structuredData = true
+  # [str] Tell your GitHub username so that the GitHub API is used to fetch more information for structured data.
+  #   This will use information that is publically available about your GitHub user profile at https://api.github.com/users/{USERNAME}.
+  # structuredDataFromGithub = "USERNAME"
+  # [bool] Enable the optional blog module
+  useBlog = true
 
-    second_color="white"
-    second_text_color="#333"
+## Configure contact form:
+[Params.Contact]
+  # [str[]] i18n keys used to display in an additional select box.
+  #   Comment out if you want to disable it.
+  select = ["generic", "coop", "business", "project"]
 
-    header_color="#f8f8f8"
-    header_text_color="rgb(51, 51, 51)"
 
-    header_link_color="#777"
-    header_link_hover_color="rgb(51, 51, 51)"
-
-#
-# Sets Social Media icons to appear and link to your account. Value should be your
-# username unless otherwise noted. Icons appear at the top of the page.
-#
-[social]
-    # # Coding Communities
-    # github           = "cdeck3r/OneDly-Theme"
-    # gitlab           = ""
-    # stackoverflow    = "" # User Number
-    # bitbucket        = ""
-    # jsfiddle         = ""
-    # codepen          = ""
-    # # Visual Art Communities
-    # deviantart       = ""
-    # flickr           = ""
-    # behance          = ""
-    # dribbble         = ""
-    # # Publishing Communities
-    # wordpress        = ""
-    # medium           = ""
-    # # Professional/Business Oriented Communities
-    # linkedin         = ""
-    # linkedin_company = ""
-    # foursquare       = ""
-    # xing             = ""
-    # slideshare       = ""
-    # # Social Networks
-    # facebook         = ""
-    # googleplus       = ""
-    # reddit           = ""
-    # quora            = ""
-    # youtube          = "channel/UCZ5wNVV_E6AA3L3C-mvqwSA"
-    # vimeo            = ""
-    # whatsapp         = "" # WhatsApp Number
-    # # WeChat and QQ need testing.
-    # wechat         = ""
-    # qq             = "" # User ID Number
-    # instagram        = ""
-    # tumblr           = ""
-    # twitter          = "cdeck3r"
-    # skype            = ""
-    # snapchat         = ""
-    # pinterest        = ""
-    # telegram         = ""
-    # vine             = ""
-    # googlescholar    = ""
-    # orcid            = ""
-    # researchgate     = ""
-    # # Email
-    # email = "info@cdeck3r.com"
-
-#
-# Adjust privacy settings
-# See: https://gohugo.io/about/hugo-and-gdpr/
-#
-[privacy]
-    [privacy.disqus]
-      disable = true
-
-    [privacy.googleAnalytics]
-      disable = true
-      anonymizeIP = true
-      respectDoNotTrack = true
-      useSessionStorage = true
-
-    [privacy.instagram]
-      disable = false
-      simple = true
-
-    [privacy.twitter]
-      disable = false
-      enableDNT = true
-      simple = true
-
-    [privacy.vimeo]
-      disable = true
-      simple = true
-
-    [privacy.youtube]
-      disable = false
-      privacyEnhanced = true
-
-#
-# In simple mode for Instagram and a site styled with Bootstrap 4, 
-# you may want to disable the inlines styles provided by Hugo:
-# See: https://gohugo.io/about/hugo-and-gdpr/
-#
-[services]
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true
-
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Work"
+  url  = "/#work"
+  weight = 2
+[[menu.main]]
+  name = "Blog"
+  url  = "/#blog"
+  weight = 3
+[[menu.main]]
+  name = "Contact"
+  url  = "/#contact"
+  weight = 4
+[[menu.main]]
+  # Use icon here to neatly back reference an external site/blog/whatever:
+  pre = "<i class='icon icon-link-ext'></i>&nbsp;"
+  name = ""
+  url  = "https://pyotek.dev"
+  weight = 5
