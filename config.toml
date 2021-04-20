@@ -1,5 +1,5 @@
 title = "ACMC2021"
-baseURL = "https://acmc21.art"
+baseURL = "http://acmc21.art"
 languageCode = "en-US"
 theme = "osprey-delight"
 tags = ["personal", "homepage", "portfolio"]
