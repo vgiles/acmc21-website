@@ -1,14 +1,14 @@
-baseURL = "https://compassionate-meitner-44354d.netlify.app"
+baseURL = "https://acmc21.art"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
 languageCode = "en-US"
 pygmentsUseClasses = true
-tags = ["personal", "homepage", "portfolio"]
+tags = ["conference", "computer music", "acmc21"]
 theme = "osprey-delight"
 title = "ACMC2021"
 [Params]
-author = "kdevo"
+author = "Vincent Giles"
 copyright = true
 description = "Website landing page for Australasian Computer Music Conference 2021"
 email = ""
@@ -32,7 +32,7 @@ useTermynal = true
 [Params.Social]
 [[menu.main]]
 name = "Call"
-url = "#call"
+url = "/#call"
 weight = 2
 [[menu.main]]
 name = "About"
