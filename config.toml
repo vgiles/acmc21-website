@@ -16,8 +16,9 @@ enforceSinglePage = false
 favicon = "favicon.png"
 googleTagManager = ""
 logoSmall = "favicon.png"
-opengraphImage = "/images/acmc21.png"
-tagline = "ACMC'21: CONNECTIONS"
+logoBig = "/images/acmc21-big.png"
+opengraphImage = "/images/acmc21-logo.png"
+tagline = "CONNECTIONS"
 [Params.Contact]
 select = ["generic", "coop", "business", "project"]
 [Params.Feat]
