@@ -10,3 +10,4 @@ fields:
   label: title
 pages:
 - content/call.md
+- content/scholarly_call.md
