@@ -9,7 +9,7 @@ Use this form to submit an abstract to ACMC21.
     <input type="email" id="EMAIL" name="EMAIL"><br><hr>
     <label for="TITLE">3. Title of paper:</label>
     <input type="text" id="TITLE" name="TITLE"><br><hr>
-    <label for="LOCATION">4. Select a location preference</label><br><hr>
+    <label for="LOCATION">4. Select a location preference</label><br>
     <input type="radio" id="SYDNEY" name="LOCATION" value="Sydney">
     <label for="sydney">Sydney</label><br>
     <input type="radio" id="MELBOURNE" name="LOCATION" value="Melbourne">
