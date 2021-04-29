@@ -5,14 +5,14 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Live Performance Call</title>
+  <title>Sound Gallery Call</title>
   <style>
     html {
       line-height: 1.5;
       font-family: Georgia, serif;
       font-size: 18px;
-      color: #6f6f6f;
-      background-color: #d6dcc3;
+      color: #2f2f2f;
+      background-color: #94968c;
     }
 
     body {
@@ -217,20 +217,21 @@
 </head>
 
 <body>
-  <h1 id="submit-an-artist-talk">ACMC21: Submit a live performance proposal</h1>
-  <p>Use this form to submit a proposal in the Live Performance category. This category is reviewed but for curatorial processes rather than rigorous/academic peer-review.<br>
+  <h1 id="submit-an-artist-talk">ACMC21: Submit a work for the sound galleries</h1>
+  <p>Use this form to submit a proposal in the Sound Gallery category. This category is reviewed but for curatorial processes rather than rigorous/academic peer-review. This category will require a <emph>stereo mixdown</emph> to be submitted via an external storage link, with the full multi-channel files being sent later on request. <br>
+    <emph>Sydney will have an octaphonic sound room.</emph><br>
+    <emph>Melbourne willl have a quadrophonic sound room.</emph><br>
     * => required fields.</p>
   <form name="live-performance-submission" method="POST" data-netlify="true" data-netlify-recaptcha="true">
     <label for="NAME">1. Full name:*</label> <input type="text" id="NAME" name="NAME" required><br>
     <hr>
     <label for="EMAIL">2. Email address*</label> <input type="email" id="EMAIL" name="EMAIL" required><br>
     <hr>
-    <label for="TITLE">3. Title of performance:*</label> <input type="text" id="TITLE" name="TITLE" required><br>
+    <label for="TITLE">3. Title of piece:*</label> <input type="text" id="TITLE" name="TITLE" required><br>
     <hr><!-- LOCATION -->
     <label for="LOCATION">4. Select a location preference*</label><br> <input type="radio" id="SYDNEY" name="LOCATION"
-      value="Sydney"> <label for="sydney">Sydney</label><br> <input type="radio" id="MELBOURNE" name="LOCATION"
-      value="Melbourne"> <label for="Melbourne">Melbourne</label><br> <input type="radio" id="ONLINE" name="LOCATION"
-      value="Online"> <label for="Online">Online</label><br>
+      value="Sydney"> <label for="sydney">Sydney (8 channel or less)</label><br> <input type="radio" id="MELBOURNE" name="LOCATION"
+      value="Melbourne"> <label for="Melbourne">Melbourne (4 channel or less)</label><br>
     <hr><!-- SYNTHFORUM SELECTION -->
     <label for="synthforum">5. Is this for Forum Synthesis (August 26 ONLY) or the broader ACMC context?*</label><br>
     <input type="radio" id="synthforum" name="CONTEXT" value="synthforum"> <label for="synthforum">Forum Synthesis</label><br> <input
@@ -242,8 +243,8 @@
           <hr>
           <label for="EXAMPLE">7. Provide a link to examples of work/similar ideas/any supporting material you would like to submit (CV for example). One link only:</label> <input type="text" id="EXAMPLE" name="EXAMPLE"><br>
           <hr>
-          <label for="fileUpload">8. Please upload a PDF file outlining your proposal. Ensure that the file is as small as
-            possible (50-100kb should be enough for text - please do NOT include images in the submission).* </label><br> <input type="file" name="abstract"></input><br>
+          <label for="FILES">8. Provide a link to a STEREO MIXDOWN of the piece via Dropbox, GDrive, WeTransfer, etc.</label> <input type="text" id="FILES" name="FILES"><br><hr>
+          <label for="PASSWORD">9. IF your link is password protected, include the password here. This is stored (securely) as plain text and will be distributed to curatorial team.</label> <input type="text" id="PASSWORD" name="PASSWORD"><br>
           <hr>
           <button type="submit">Submit form</button>
   </form>
