@@ -30,11 +30,15 @@ structuredData = true
 useBlog = true
 useTermynal = true
 [Params.Social]
+# [[menu.main]]
+# name = "Test"
+# url = "#scholarly-paper"
+# weight = 3
 [[menu.main]]
 name = "Call"
 url = "#call"
 weight = 2
 [[menu.main]]
 name = "About"
-url = "/#about"
+url = "#about"
 weight = 1

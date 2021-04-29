@@ -13,6 +13,8 @@ In keeping with our theme, remote/online connections (internet streaming options
 
 Submissions are open from May 1, 2021 with the opportunity to provide feedback and engage in conversation with all interested participants. Conference attendees/presenters can nominate which state/venue they wish to attend for ACMC’21 (+Synthposium).
 
+[Click Here to Submit A Scholarly Paper Abstract](/forms/scholarly-paper.html)
+
 Early questions and queries can be directed to
 
 [conference@computermusic.org.au](mailto:conference@computermusic.org.au)
