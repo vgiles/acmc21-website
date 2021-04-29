@@ -30,5 +30,3 @@ or to [mark.oliveiro@aim.edu.au](mailto:mark.oliveiro@aim.edu.au)
 [Submit a Live Performance Proposal (reviewed/curated)](/forms/live-performance-form.html)
 
 [Submit a Work for Sound Gallery (reviewed/curated)](/forms/sound-gallery-form.html)
-<!-- 
-[Submit a Proposal for Site-Specific Installation (curated, not-commissioned)](/forms/site-specific-form.html) -->
