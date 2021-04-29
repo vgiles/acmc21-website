@@ -5,14 +5,14 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Scholarly Paper Call</title>
+  <title>Artist Talk Call</title>
   <style>
     html {
       line-height: 1.5;
       font-family: Georgia, serif;
       font-size: 18px;
       color: #6f6f6f;
-      background-color: #c3dcdc;
+      background-color: #c3c6dc;
     }
 
     body {
@@ -217,42 +217,36 @@
 </head>
 
 <body>
-  <h1 id="submit-an-abstract">ACMC21: Submit an abstract</h1>
-  <p>Use this form to submit an abstract in the Scholarly Paper category. Please be sure to de-identify your PDF file.<br>
-  * => required fields.</p>
-  <form name="paper submission" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+  <h1 id="submit-an-artist-talk">ACMC21: Submit an artist talk proposal</h1>
+  <p>Use this form to submit an abstract in the Artist Talk category. This category is reviewed but for curatorial processes rather than rigorous/academic peer-review.<br>
+    * => required fields.</p>
+  <form name="artist-talk-submission" method="POST" data-netlify="true" data-netlify-recaptcha="true">
     <label for="NAME">1. Full name:*</label> <input type="text" id="NAME" name="NAME" required><br>
     <hr>
-    <label for="EMAIL">2. Email address:*</label> <input type="email" id="EMAIL" name="EMAIL" required><br>
+    <label for="EMAIL">2. Email address*</label> <input type="email" id="EMAIL" name="EMAIL" required><br>
     <hr>
-    <label for="TITLE">3. Title of paper:*</label> <input type="text" id="TITLE" name="TITLE" required><br>
-    <hr>
+    <label for="TITLE">3. Title of talk:*</label> <input type="text" id="TITLE" name="TITLE" required><br>
+    <hr><!-- LOCATION -->
     <label for="LOCATION">4. Select a location preference*</label><br> <input type="radio" id="SYDNEY" name="LOCATION"
       value="Sydney"> <label for="sydney">Sydney</label><br> <input type="radio" id="MELBOURNE" name="LOCATION"
       value="Melbourne"> <label for="Melbourne">Melbourne</label><br> <input type="radio" id="ONLINE" name="LOCATION"
       value="Online"> <label for="Online">Online</label><br>
+    <hr><!-- SYNTHFORUM SELECTION -->
+    <label for="synthforum">5. Is this for Forum Synthesis (August 26 ONLY) or the broader ACMC context?*</label><br>
+    <input type="radio" id="synthforum" name="CONTEXT" value="synthforum"> <label for="synthforum">Forum Synthesis</label><br> <input
+      type="radio" id="ACMC" name="CONTEXT" value="ACMC"> <label for="ACMC">ACMC</label><br>
     <hr>
-    <label for="DIVERSITY1">5. Please select the statement that best suits your research project.*</label><br> <input
-      type="radio" id="about" name="DIVERSITY1" value="d1"> <label for="about">My research is ABOUT marginalised people
-      but does NOT include their voices in the research (example: “my research is ABOUT differently-abled people
-      engaging in computer music”)<br> <input type="radio" id="with" name="DIVERSITY1" value="d2"> <label for="with">My
-        research is about marginalised people but DOES include their voices in the project (example: “my research is
-        about differently-abled people engaging in computer music and specifically includes those people in the research
-        process”)<br> <input type="radio" id="notapplicable" name="DIVERSITY1" value="d3"> <label for="notapplicable">My
-          research is not about marginalised voices.</option><br>
-          <hr>
-          <label for="DIVERSITY2">6. Please expand on the above question if you selected either of the ABOUT/INCLUDES
-            options. Please note that if you yourself are from a marginalised group you do NOT need to include that
-            information unless you want to and are comfortable to do so.*</label><br>
-          <textarea id="DIVERSITY2" name="DIVERSITY2" rows="8" cols="70" required></textarea>
+    <label for="DIVERSITY">6. Please describe how your proposal addresses the abundant issues of diverse representation in artistic practice and in the scholarly space. Consider inclusivity in any form.*</label><br>
+          <textarea id="DIVERSITY" name="DIVERSITY" rows="8" cols="70" required></textarea>
           <br>
           <hr>
-          <label for="fileUpload">7. Please upload a PDF file of your abstract. Ensure that the file is as small as
-            possible (50-100kb should be enough for an abstract). Make sure to remove identifying labels (name,
-            etc.)*</label><br> <input type="file" name="abstract"></input><br>
+          <label for="EXAMPLE">7. Provide a link to examples of work/similar ideas/any supporting material you would like to submit (CV for example). One link only:</label> <input type="text" id="EXAMPLE" name="EXAMPLE"><br>
+          <hr>
+          <label for="fileUpload">8. Please upload a PDF file outlining your proposal. Ensure that the file is as small as
+            possible (50-100kb should be enough for text - please do NOT include images in the submission).* </label><br> <input type="file" name="abstract"></input><br>
           <hr>
           <button type="submit">Submit form</button>
   </form>
-</body>
+  </body>
 
 </html>

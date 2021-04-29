@@ -3,16 +3,21 @@ date = ""
 title = "ACMC21: Connections"
 
 +++
-**SYDNEY**
+## Sydney
 
 Australian Institute of Music  
 1 Foveaux St, Surry Hills NSW, 2010
 
 26-28 August, 2021
 
-**MELBOURNE**
+## Melbourne
 
 Australian Institute of Music  
 120 King St, Melbourne, VIC, 3000
 
 26-27 August, 2021
+
+### Forum Synthesis
+
+Thursday 26th August, 2021
+Both venues. 

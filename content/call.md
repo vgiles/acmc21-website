@@ -13,10 +13,22 @@ In keeping with our theme, remote/online connections (internet streaming options
 
 Submissions are open from May 1, 2021 with the opportunity to provide feedback and engage in conversation with all interested participants. Conference attendees/presenters can nominate which state/venue they wish to attend for ACMC’21 (+Synthposium).
 
-[Click Here to Submit A Scholarly Paper Abstract](/forms/scholarly-paper.html)
-
 Early questions and queries can be directed to
 
 [conference@computermusic.org.au](mailto:conference@computermusic.org.au)
 
 or to [mark.oliveiro@aim.edu.au](mailto:mark.oliveiro@aim.edu.au)
+
+## Submission forms. 
+
+[Submit A Scholarly Paper Abstract (peer-reviewed)](/forms/scholarly-paper.html)
+
+[Submit an Artist Talk Proposal (reviewed/curated)](/forms/artist-talk-form.html)
+
+[Submit a Workshop Proposal (reviewed/curated)](/forms/workshop-form.html)
+
+[Submit a Live Performance Proposal (reviewed/curated)](/forms/live-performance-form.html)
+
+[Submit a Work for Sound Gallery (reviewed/curated)](/forms/sound-gallery-form.html)
+
+[Submit a Proposal for Site-Specific Installation (curated, not-commissioned)](/forms/site-specific-form.html)
