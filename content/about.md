@@ -17,7 +17,7 @@ Australian Institute of Music
 
 26-27 August, 2021
 
-### Forum Synthesis
+### Synthmoot
 
 Thursday 26th August, 2021
 Both venues. 
