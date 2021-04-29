@@ -11,7 +11,7 @@ This year’s ACMC theme is connections. We want to connect the diverse range of
 
 In keeping with our theme, remote/online connections (internet streaming options) will be available for presenters/attendees. 
 
-Submissions are open from May 1, 2021 with the opportunity to provide feedback and engage in conversation with all interested participants. Conference attendees/presenters can nominate which state/venue they wish to attend for ACMC’21 (+Synthposium).
+Submissions are open from May 1, 2021 with the opportunity to provide feedback and engage in conversation with all interested participants. Conference attendees/presenters can nominate which state/venue they wish to attend for ACMC’21 (+ Forum Synthesis).
 
 Early questions and queries can be directed to
 
