@@ -1,7 +1,7 @@
 +++
 weight = 1
 date = ""
-title = "DRMNGNOW"
+title = "DRMNGNOW (MEL)"
 image = "/images/drmngnow.jpg"
 alt = "DRMNGNOW"
 color = "#0a1922"
