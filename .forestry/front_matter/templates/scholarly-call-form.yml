@@ -1,6 +1,6 @@
 ---
-label: Pages
-hide_body: false
+label: Scholarly Call Form
+hide_body: true
 fields:
 - type: text
   name: date
@@ -8,6 +8,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- content/call.md
-- content/scholarly_call.md

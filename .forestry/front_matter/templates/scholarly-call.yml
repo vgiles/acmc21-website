@@ -1,5 +1,5 @@
 ---
-label: Pages
+label: Scholarly Call
 hide_body: false
 fields:
 - type: text
@@ -8,6 +8,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- content/call.md
-- content/scholarly_call.md
