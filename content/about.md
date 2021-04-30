@@ -3,6 +3,11 @@ date = ""
 title = "ACMC21: Connections"
 
 +++
+[![alt text][image]][hyperlink]
+
+[hyperlink]: https://computermusic.org.au
+[image]: /images/acma-logo-square-black.png (ACMA Logo)
+
 ## Sydney
 
 Australian Institute of Music  
@@ -21,3 +26,8 @@ Australian Institute of Music
 
 Thursday 26th August, 2021
 Both venues. 
+
+[![alt text][image2]][hyperlink2] 
+
+[hyperlink2]: https://www.aim.edu.au
+[image2]: /images/aim.png (AIM Logo)

@@ -10,4 +10,4 @@ linkView = "https://drmngnow.bandcamp.com"
 
 DRMNGNOW. Neil Morris. 
 
-**1pm, Friday August 27th. MELBOURNE.**
+**1pm, Friday August 27th, 2021. MELBOURNE.**
