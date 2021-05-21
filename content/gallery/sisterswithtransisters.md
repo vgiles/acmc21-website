@@ -1,5 +1,5 @@
 +++
-weight = 2
+weight = 3
 date = ""
 title = "Sisters With Transistors (SYD/MEL)"
 image = "/images/sws.jpg"
