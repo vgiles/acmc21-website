@@ -3,6 +3,8 @@ date = ""
 title = "Call"
 
 +++
+**Submissions close on June 11, 2021. AEST**
+
 ACMC is the annual gathering of the Australasian Computer Music Association, a place to show and discuss research and artistic progress in computer/electronic music. It’s a festival of performances, installations, workshops, and tutorials that inspire, challenge, and showcase our community.
 
 Synthmoot will introduce the 3-day conference with specialised workshops, performances and presentations highlighting the resurgence in hardware synthesis in today’s music making toolkit! 
@@ -13,7 +15,7 @@ In keeping with our theme, remote/online connections (internet streaming options
 
 Submissions are open from May 1, 2021 with the opportunity to provide feedback and engage in conversation with all interested participants. Conference attendees/presenters can nominate which state/venue they wish to attend for ACMC21 (+ Synthmoot).
 
-**Submissions close on June 11, 2021.**
+**Submissions close on June 11, 2021. AEST**
 
 While the theme of ACMC 21 is _connections_, we welcome proposals across the range of computer music topics and practices, with an emphasis on connection and synthesis.
 
@@ -32,6 +34,8 @@ Questions and queries can be directed to
 [Submit a Live Performance Proposal (reviewed/curated)](/forms/live-performance-form.html)
 
 [Submit a Work for Sound Gallery (reviewed/curated)](/forms/sound-gallery-form.html)
+
+**Submissions close on June 11, 2021.**
 
 ## Registration
 
