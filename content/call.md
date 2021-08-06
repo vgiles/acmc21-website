@@ -26,6 +26,7 @@ Questions and queries can be directed to
 **Submissions have now closed. Stay tuned for updates.**
 
 ## Registration
+{{< rawhtml >}}
 
 <div id="eventbrite-widget-container-160691728285"></div>
 
@@ -47,3 +48,4 @@ Questions and queries can be directed to
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+{{< /rawhtml >}}
