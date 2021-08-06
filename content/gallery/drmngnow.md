@@ -1,5 +1,5 @@
 +++
-weight = 1
+weight = 2
 date = ""
 title = "DRMNGNOW (MEL)"
 image = "/images/drmngnow.jpg"
