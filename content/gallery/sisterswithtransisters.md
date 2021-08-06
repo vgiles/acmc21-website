@@ -1,7 +1,7 @@
 +++
-weight = 3
+weight = 4
 date = ""
-title = "Sisters With Transistors (SYD/MEL)"
+title = "Sisters With Transistors (MEL)"
 image = "/images/sws.jpg"
 alt = "Special Screening: Sisters With Transisters"
 color = "#0a1922"
