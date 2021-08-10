@@ -5,6 +5,9 @@ title = "Call"
 +++
 **Submissions have now closed. Stay tuned for updates.**
 
+## Registration
+{{< iframe >}}
+
 ACMC is the annual gathering of the Australasian Computer Music Association, a place to show and discuss research and artistic progress in computer/electronic music. It’s a festival of performances, installations, workshops, and tutorials that inspire, challenge, and showcase our community.
 
 Synthmoot will introduce the 3-day conference with specialised workshops, performances and presentations highlighting the resurgence in hardware synthesis in today’s music making toolkit! 
@@ -25,5 +28,3 @@ Questions and queries can be directed to
 
 **Submissions have now closed. Stay tuned for updates.**
 
-## Registration
-{{< iframe >}}
