@@ -1,56 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Galleries on Osprey Delight Demo</title>
-    <link>https://example.com/gallery/</link>
-    <description>Recent content in Galleries on Osprey Delight Demo</description>
+    <title>Galleries on ACMC2021</title>
+    <link>https://acmc21.art/gallery/</link>
+    <description>Recent content in Galleries on ACMC2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 18 Sep 2019 21:57:17 -0700</lastBuildDate><atom:link href="https://example.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://acmc21.art/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>https://example.com/gallery/hugo/</link>
-      <pubDate>Fri, 12 May 2017 22:25:02 -0700</pubDate>
+      <title>Sarah Belle Reid</title>
+      <link>https://acmc21.art/gallery/sbr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/gallery/hugo/</guid>
-      <description>Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.</description>
+      <guid>https://acmc21.art/gallery/sbr/</guid>
+      <description>Sarah Belle Reid is a performer-composer who plays trumpet, modular synthesizer, and an ever-growing collection of handcrafted electronic instruments. Her unique musical voice explores the intersections between contemporary classical music, experimental and interactive electronics, visual arts, noise music, and improvisation. Often praised for her ability to transport audience members through vivid sonic adventures, Reid&amp;rsquo;s sonic palette has been described as ranging from &amp;ldquo;graceful&amp;rdquo; and &amp;ldquo;danceable&amp;rdquo; all the way to &amp;ldquo;silk-falling-through-space,&amp;rdquo; and &amp;ldquo;pit-full-of-centipedes&amp;rdquo; (San Francisco Classical Voice).</description>
     </item>
     
     <item>
-      <title>Osprey</title>
-      <link>https://example.com/gallery/osprey/</link>
-      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      <title>DRMNGNOW (MEL)</title>
+      <link>https://acmc21.art/gallery/drmngnow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/gallery/osprey/</guid>
-      <description></description>
+      <guid>https://acmc21.art/gallery/drmngnow/</guid>
+      <description>DRMNGNOW. Neil Morris.
+12pm, Friday August 27th, 2021. MELBOURNE.</description>
     </item>
     
     <item>
-      <title>Toma Nistor</title>
-      <link>https://example.com/gallery/toma-nistor/</link>
-      <pubDate>Mon, 15 May 2017 20:00:16 -0700</pubDate>
+      <title>Sisters With Transistors (MEL)</title>
+      <link>https://acmc21.art/gallery/sisterswithtransisters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/gallery/toma-nistor/</guid>
-      <description>Author of the original Osprey theme.</description>
-    </item>
-    
-    <item>
-      <title>Osprey Delight</title>
-      <link>https://example.com/gallery/osprey-delight/</link>
-      <pubDate>Wed, 18 Sep 2019 21:57:17 -0700</pubDate>
-      
-      <guid>https://example.com/gallery/osprey-delight/</guid>
-      <description>{{! github-description !}}
-Check it out.</description>
-    </item>
-    
-    <item>
-      <title>kdevo</title>
-      <link>https://example.com/gallery/kdevo/</link>
-      <pubDate>Fri, 17 May 2019 22:25:16 -0700</pubDate>
-      
-      <guid>https://example.com/gallery/kdevo/</guid>
-      <description>Author of Osprey Delight.</description>
+      <guid>https://acmc21.art/gallery/sisterswithtransisters/</guid>
+      <description>Film Screening: Sisters With Transistors - Electronic Music&amp;rsquo;s Unsung Heroines
+TIME SLOT TO BE CONFIRMED Sisters With Transistors will have special screenings for conference attendees only at both sites simultaneously</description>
     </item>
     
   </channel>

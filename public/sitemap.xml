@@ -2,33 +2,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://example.com/blog/markdown-syntax/</loc>
+      <loc>https://acmc21.art/blog/markdown-syntax/</loc>
       <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     </url>
   
     <url>
-      <loc>https://example.com/blog/rich-content/</loc>
-      <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://example.com/blog/placeholder-text/</loc>
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://example.com/blog/math-typesetting/</loc>
-      <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-      <loc>https://example.com/blog/emoji-support/</loc>
+      <loc>https://acmc21.art/blog/emoji-support/</loc>
       <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     </url>
   
     <url>
-      <loc>https://example.com/about/</loc>
-      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+      <loc>https://acmc21.art/scholarly_call/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+      <loc>https://acmc21.art/about/</loc>
+    </url>
+  
+    <url>
+      <loc>https://acmc21.art/call/</loc>
     </url>
   
 </urlset>
