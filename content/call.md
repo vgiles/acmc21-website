@@ -6,7 +6,7 @@ title = "Call"
 **Submissions have now closed. Stay tuned for updates.**
 
 ## Registration
-(Click Here To Buy Tickets)[https://www.eventbrite.com.au/e/australasian-computer-music-association-conference-acmc-online-tickets-160680568907]
+{{< iframe >}}
 
 ACMC is the annual gathering of the Australasian Computer Music Association, a place to show and discuss research and artistic progress in computer/electronic music. It’s a festival of performances, installations, workshops, and tutorials that inspire, challenge, and showcase our community.
 
