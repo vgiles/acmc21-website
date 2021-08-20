@@ -21,5 +21,23 @@
       <div class="max-w-2xl content mt-32" id="content">
     </main>
       <script type="text/javascript" src="mdparse.js"></script>
+      <script type="text/javascript">
+      window.addEventListener('scroll',()=> console.log(window.scrollY))
+
+
+        const checkpoint = 130;
+        var opac = 0;
+        window.addEventListener('scroll',()=> {
+          if (window.scrollY > checkpoint && opac < 0.14) {
+                opac = opac + 0.01;
+              }
+          else if (window.scrollY < checkpoint && opac > 0){
+              opac = opac - 0.01;
+          }
+          document.body.style.setProperty("--opac", opac);
+          }
+        )
+        
+      </script>
     </body>
 </html>
