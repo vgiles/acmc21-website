@@ -28,11 +28,11 @@
         const checkpoint = 130;
         var opac = 0;
         window.addEventListener('scroll',()=> {
-          if (window.scrollY > checkpoint && opac < 0.1) {
-                opac = opac + 0.01;
+          if (window.scrollY > checkpoint && opac < 0.07) {
+                opac = opac + 0.004;
               }
           else if (window.scrollY < checkpoint && opac > 0){
-              opac = opac - 0.01;
+              opac = opac - 0.004;
           }
           document.body.style.setProperty("--opac", opac);
           }
