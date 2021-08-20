@@ -35,19 +35,8 @@ General correspondence for ACMC21 should be sent to conference@computermusic.org
 
 # Getting Started in Visual Music and AudioVisual Improv
 
-## Mark Pedersen and Brigid Burke
-
-+----------------------+----------------------+----------------------+
-| Dr. Brigid Burke     | Dr. Mark Pedersen    | Janvi Jogal          |
-+----------------------+----------------------+----------------------+
-| Presenter            | Presenter            | Moderator            |
-|                      |                      |                      |
-| [au                  | <aut                 | <jan                 |
-| thor1\@smcnetwork.or | hor2@smcnetwork.org> | vi.jogal@>aim.edu.au |
-| g](mailto:author1@sm |                      |                      |
-| cnetwork.org?subject |                      |                      |
-| =SMC%202010%20paper) |                      |                      |
-+----------------------+----------------------+----------------------+
+## [Mark Pedersen](mark@chailight.com) and Brigid Burke
+### Moderator: Janvi Jogal
 
 ## Abstract
 
@@ -72,14 +61,10 @@ audiovisual space as a way of refreshing their own creative practice.
 
 Topics covered will include:
 
--   building a sense of connection and reciprocity between audio and
-    visual material
-
--   strategies for collecting and assembling raw material
-
--   the use of synthesis vs. concrete materials
-
--   strategies for audiovisual performance
+* building a sense of connection and reciprocity between audio and visual material
+* strategies for collecting and assembling raw material
+* the use of synthesis vs. concrete materials
+* strategies for audiovisual performance
 
 # Mutatis Mutandis: Using Computational Thinking to Interpret Scores by Herbert Brün  
 ## James Aylward 
