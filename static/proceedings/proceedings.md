@@ -7,19 +7,21 @@ Melbourne, Victoria, and Sydney, New South Wales: held online due to the ongoing
 
 ## Organising Committee
 
-**Chairs:** Mark Oliveiro and Vincent Giles
+**Chairs:** Mark Oliveiro and Vincent Giles.
 
-**Committee:** Alice Bennett, Sophie Rose, Ben Swift, Charles Martin, Christina Rowatt, Andy Walton
+**Committee:** Alice Bennett, Sophie Rose, Ben Swift, Charles Martin, Christina Rowatt, Andy Walton, Michael Higgins.
 
-**Support:** Julian Gough, Sandon Rigg, Other Persons
+**Support:** Julian Gough, Sandon Rigg, Hayden Jones, Jourdain Vitiello.
 
-**Student Support:** Daniel Markulic, Dylan Sullivan, Nadiah Jailani, James Ellender, Jean Yap, Jared Tracton, Sigrid Merch, Sun Jin Oh, Shally Pais, Kenner Yoga, Adi Balasubramanian, Gabi Brown, Anna Del Rosario, Laura Parker, Raseca Jallorina, Janvi Jogal, Gene Cleary, Micahel Higgins
+**Student Support:** Daniel Markulic, Dylan Sullivan, Nadiah Jailani, James Ellender, Jean Yap, Jared Tracton, Sigrid Merch, Sun Jin Oh, Shally Pais, Kenner Yoga, Adi Balasubramanian, Gabi Brown, Anna Del Rosario, Laura Parker, Raseca Jallorina, Janvi Jogal, Gene Cleary, Micahel Higgins, Liam Reed.
 
 **Review Personnel:** Charles Martin, Benjamin Swift, Alexander Hunter, Ivan Zavada, Kit Devine, Shally Pais, Vicki Hallett, Massimo Avantaggiato, Diana Scarborough, David Rogerson, David Haberfeld, Lindsay Vickery, Katrina Grant, Terhi Nurmikko-Fuller, Cissi Tsang, Brigid Burke, Skot McDonald, Toby Gifford, Gerardo Dirie, Warren Burt, Aaron Wyatt, Mark Pedersen, Donna Hewitt, Roger Alsop, Edward Neeman, Liz Lea, Anna Terzaroli, Bridget Johnson, Robert Sazdov, Susan Frykberg, Nardi Simpson, James Barbour, Tom Connell, Margaret Schedel, Sophie Rose, Rachael Thoms, Kian Shayan, Dylan Davis, Jordan Lacey, David Kim-Boyle, David Hirst, Scott Davie, Alice Bennett, Carlos Lopez, Tim Kreger, Phillip Johnston, Phillip Johnston, Adrian Bolland.
 
 All copyright remains with the authors.
 
-Proceedings edited by Vincent Giles.
+Proceedings edited and compiled by Vincent Giles, Shally Pais, Anna Del Rosario.
+
+Website, online proceedings, schedule, etc. by Vincent Giles.
 
 All correspondence with authors should be sent directly to the authors.
 
