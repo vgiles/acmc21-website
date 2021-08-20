@@ -35,7 +35,7 @@ General correspondence for ACMC21 should be sent to conference@computermusic.org
 
 # Getting Started in Visual Music and AudioVisual Improv
 
-## [Mark Pedersen](mark@chailight.com) and Brigid Burke
+## [Mark Pedersen](mailto:mark@chailight.com) and Brigid Burke
 ### Moderator: Janvi Jogal
 
 ## Abstract
