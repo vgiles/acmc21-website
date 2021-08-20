@@ -1,4 +1,4 @@
-# ACMC21: CONNECTIONS
+![header image, text reads "acmc21: connections"](header.png)
 
 Proceedings of the Australasian Computer Music Conference 2021.
 Melbourne, Victoria, and Sydney, New South Wales: held online due to the ongoing COVID-19 pandemic.
@@ -15,7 +15,7 @@ Melbourne, Victoria, and Sydney, New South Wales: held online due to the ongoing
 
 **Student Support:** Daniel Markulic, Dylan Sullivan, Nadiah Jailani, James Ellender, Jean Yap, Jared Tracton, Sigrid Merch, Sun Jin Oh, Shally Pais, Kenner Yoga, Adi Balasubramanian, Gabi Brown, Anna Del Rosario, Laura Parker, Raseca Jallorina, Janvi Jogal, Gene Cleary, Micahel Higgins, Liam Reed.
 
-**Review Personnel:** Charles Martin, Benjamin Swift, Alexander Hunter, Ivan Zavada, Kit Devine, Shally Pais, Vicki Hallett, Massimo Avantaggiato, Diana Scarborough, David Rogerson, David Haberfeld, Lindsay Vickery, Katrina Grant, Terhi Nurmikko-Fuller, Cissi Tsang, Brigid Burke, Skot McDonald, Toby Gifford, Gerardo Dirie, Warren Burt, Aaron Wyatt, Mark Pedersen, Donna Hewitt, Roger Alsop, Edward Neeman, Liz Lea, Anna Terzaroli, Bridget Johnson, Robert Sazdov, Susan Frykberg, Nardi Simpson, James Barbour, Tom Connell, Margaret Schedel, Sophie Rose, Rachael Thoms, Kian Shayan, Dylan Davis, Jordan Lacey, David Kim-Boyle, David Hirst, Scott Davie, Alice Bennett, Carlos Lopez, Tim Kreger, Phillip Johnston, Phillip Johnston, Adrian Bolland.
+**Review Personnel:** Charles Martin, Benjamin Swift, Alexander Hunter, Ivan Zavada, Kit Devine, Shally Pais, Vicki Hallett, Massimo Avantaggiato, Diana Scarborough, David Rogerson, David Haberfeld, Lindsay Vickery, Katrina Grant, Terhi Nurmikko-Fuller, Cissi Tsang, Brigid Burke, Skot McDonald, Toby Gifford, Gerardo Dirie, Warren Burt, Aaron Wyatt, Mark Pedersen, Donna Hewitt, Roger Alsop, Edward Neeman, Liz Lea, Anna Terzaroli, Bridget Johnson, Robert Sazdov, Susan Frykberg, Nardi Simpson, James Barbour, Tom Connell, Margaret Schedel, Sophie Rose, Rachael Thoms, Kian Shayan, Dylan Davis, Jordan Lacey, David Kim-Boyle, David Hirst, Scott Davie, Alice Bennett, Carlos Lopez, Tim Kreger, Phillip Johnston, Adrian Bolland.
 
 All copyright remains with the authors.
 
