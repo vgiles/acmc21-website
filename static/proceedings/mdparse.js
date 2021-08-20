@@ -1,9 +1,10 @@
 async function fetchAndParseMarkdown() {
-  const url = 'example.md';
+  const url = 'proceedings.md';
   const response = await fetch(url);
   const data = await response.text();
-  const htmlFromMarkdown = marked(data, { sanitize: true });
-  return htmlFromMarkdown;
+  const htmlFromMarkdown = marked(data);
+  let clean = DOMPurify.sanitize( htmlFromMarkdown );
+  return clean;
 }
 
 
