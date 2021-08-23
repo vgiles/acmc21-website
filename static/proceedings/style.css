@@ -169,7 +169,33 @@ h5 {
   align-items: flex-start;
 }
 
+.sticky {
+  position: sticky;
+  top: 0;
+}
+
 .is-active {
   font-weight: 700;
   color: #bb2205;
+}
+
+.is-child {
+  padding-left: 1em;
+}
+
+.list-leave-active, .list-move {
+  transition: transform 0.8s, opacity 0.4s;
+}
+
+.list-enter-active {
+  transition: transform 0.8s ease 0.4s, opacity 0.4s ease 0.4s;
+}
+
+.list-enter, .list-leave-to {
+  opacity: 0;
+  transform: translateY(10px);
+}
+
+.list-leave-active {
+  position: absolute;
 }

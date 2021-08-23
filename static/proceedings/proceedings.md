@@ -5,37 +5,47 @@ Melbourne, Victoria, and Sydney, New South Wales: held online due to the ongoing
 
 [CLICK HERE FOR A PDF VERSION OF THIS DOCUMENT](proceedings.pdf)
 
-## Organising Committee
+# Organising Committee
 
-**Chairs:** Mark Oliveiro and Vincent Giles.
+## Chairs
+Mark Oliveiro and Vincent Giles.
 
-**Committee:** Alice Bennett, Sophie Rose, Ben Swift, Charles Martin, Christina Rowatt, Andy Walton, Michael Higgins.
+## Committee
+Alice Bennett, Sophie Rose, Ben Swift, Charles Martin, Christina Rowatt, Andy Walton, Michael Higgins.
 
-**Support:** Julian Gough, Sandon Rigg, Hayden Jones, Jourdain Vitiello.
+## Support
+Julian Gough, Sandon Rigg, Hayden Jones, Jourdain Vitiello.
 
-**Student Support:** Daniel Markulic, Dylan Sullivan, Nadiah Jailani, James Ellender, Jean Yap, Jared Tracton, Sigrid Merch, Sun Jin Oh, Shally Pais, Kenner Yoga, Adi Balasubramanian, Gabi Brown, Anna Del Rosario, Laura Parker, Raseca Jallorina, Janvi Jogal, Gene Cleary, Micahel Higgins, Liam Reed.
+## Student Committee
+Daniel Markulic, Dylan Sullivan, Nadiah Jailani, James Ellender, Jean Yap, Jared Tracton, Sigrid Merch, Sun Jin Oh, Shally Pais, Kenner Yoga, Adi Balasubramanian, Gabi Brown, Anna Del Rosario, Laura Parker, Raseca Jallorina, Janvi Jogal, Gene Cleary, Micahel Higgins, Liam Reed.
 
-**Review Personnel:** Charles Martin, Benjamin Swift, Alexander Hunter, Ivan Zavada, Kit Devine, Shally Pais, Vicki Hallett, Massimo Avantaggiato, Diana Scarborough, David Rogerson, David Haberfeld, Lindsay Vickery, Katrina Grant, Terhi Nurmikko-Fuller, Cissi Tsang, Brigid Burke, Skot McDonald, Toby Gifford, Gerardo Dirie, Warren Burt, Aaron Wyatt, Mark Pedersen, Donna Hewitt, Roger Alsop, Edward Neeman, Liz Lea, Anna Terzaroli, Bridget Johnson, Robert Sazdov, Susan Frykberg, Nardi Simpson, James Barbour, Tom Connell, Margaret Schedel, Sophie Rose, Rachael Thoms, Kian Shayan, Dylan Davis, Jordan Lacey, David Kim-Boyle, David Hirst, Scott Davie, Alice Bennett, Carlos Lopez, Tim Kreger, Phillip Johnston, Adrian Bolland.
+## Review Personnel
+Charles Martin, Benjamin Swift, Alexander Hunter, Ivan Zavada, Kit Devine, Shally Pais, Vicki Hallett, Massimo Avantaggiato, Diana Scarborough, David Rogerson, David Haberfeld, Lindsay Vickery, Katrina Grant, Terhi Nurmikko-Fuller, Cissi Tsang, Brigid Burke, Skot McDonald, Toby Gifford, Gerardo Dirie, Warren Burt, Aaron Wyatt, Mark Pedersen, Donna Hewitt, Roger Alsop, Edward Neeman, Liz Lea, Anna Terzaroli, Bridget Johnson, Robert Sazdov, Susan Frykberg, Nardi Simpson, James Barbour, Tom Connell, Margaret Schedel, Sophie Rose, Rachael Thoms, Kian Shayan, Dylan Davis, Jordan Lacey, David Kim-Boyle, David Hirst, Scott Davie, Alice Bennett, Carlos Lopez, Tim Kreger, Phillip Johnston, Adrian Bolland.
 
 All copyright remains with the authors.
 
-Proceedings edited and compiled by Vincent Giles, Shally Pais, Anna Del Rosario.
+Proceedings edited and compiled by Vincent Giles, Shally Pais, Anna Del Rosario, Meghann O'neill
 
-Website, online proceedings, schedule, etc. by Vincent Giles.
+Website, online proceedings, schedule, etc. by Vincent Giles.[^1] [^2] [^3]
 
 All correspondence with authors should be sent directly to the authors.
 
 General correspondence for ACMA should be sent to info@computermusic.org.au
 
-General correspondence for ACMC21 should be sent to conference@computermusic.org.au
-
+General correspondence for ACMC21 should be sent to [conference@computermusic.org.au](mailto:conference@computermusic.org.au)
 
 [ACMA Website](https://computermusic.org.au)
+
+[1]: CSS Style adapted heavily from: [CSS Tricks](https://css-tricks.com/parsing-markdown-into-an-automated-table-of-contents/)
+
+[2]: Jekyll Schedule adapted from: [Four Kitchens](https://github.com/fourkitchens/jekyll-schedule)
+
+[3]: Main ACMC21 site layout for Hugo from: [KDevo](https://github.com/kdevo/osprey-delight)
 
 
 # Getting Started in Visual Music and AudioVisual Improv
 
-## [Mark Pedersen](mailto:mark@chailight.com) and Brigid Burke
+## Mark Pedersen and Brigid Burke
 
 ### Abstract
 
@@ -66,13 +76,13 @@ Topics covered will include:
 * strategies for audiovisual performance
 
 # Enter the Packetsphere: Environment-Aware Web Art. 
-## [Zak Argabrite](mailto:notprovided@null.null)
+## Zak Argabrite
  
 ### Abstract
 This paper addresses approaches to the web browser as an artistic medium, and how that artistic medium is inherently connected to the earth and the people who inhabit it. It focuses on a recent web art piece titled Packetsphere developed by two of the paper’s authors (Argabrite and Brown). The idea of the browser-as-medium is introduced by providing an overview of historical and contemporary examples of art on the web. The internet’s usage in art will then be further contextualized through an investigation into its real-world implications, with an emphasis placed on the wide-reaching environmental impacts and ethics of internet usage (especially for art). These two paths of inquiry will aid and be aided by an in-depth analysis of Packetsphere, a research-based creative output that focuses on salvaging historical expressions of the web while educating about its potential dangers. This is creatively delivered as an abstract travelogue-style journey through the physical infrastructure of the internet. Information about current realities and consequences of the internet with salvaged media and sounds of the historical web. Through this investigation a better understanding of the very real consequences of our virtual spaces will be met via a creative practice lens. 
 
 # Farm Music: A Collaboration with Junk.
-## [Bridget Johnson](mailto:b.d.johnson@massey.ac.nz)
+## Bridget Johnson
 
 ### Abstract
 The creation of collaborative works with non-musicians can often dictate new and different approaches to technology development and compositional strategies. This paper explores approaches to development of new music technology that is designed for, but removed from, a compositional process with non-musicians. It discusses the creative process for the development of a system for sonic actuation of farm junk that was part of the ‘Farm Music’ project installed at New Zealand’s Taranaki Arts Festival 2020. The paper looks at the actuation systems that were developed as well as compositional control systems for them. It also discusses the farm objects that were used in the installation and the considerations for actuation of farm junk in this public installation context. Farm Music was a collaboration with music therapist Chris O’Connor and producer Sally Barnett. The project engaged with community members with a focus on engaging men from local farms to focus on their mental health. A series of workshops were run by Chris O’Connor that encouraged the participants to look and listen for sounds in everyday objects. The participants then spent time collecting resonant objects from their farms and brought them to be part of the installation. The installation itself was designed to display the work that participants had completed as well as provide an opportunity for public engagement with the work and the sound making processes.  
@@ -80,7 +90,7 @@ The systems developed for the work needed to be modular so that whatever junk wa
 The presentation discusses and shows the challenges and successes of working in this manner. Further, this presentation provides an as outline for conceptual and technical realizations of the work.  
 
 # Sonic Cure - Percussion Inspired Modular Synthesizer Interface in Augmented Reality
-## [Weitong Huang](mailto:notprovided@null.null)
+## Weitong Huang
 
 ### Abstract
 This paper describes a synthesizer interface that can be controlled using basic physical interactions between virtual objects in HoloLens 2 with augmented reality (AR) technology. We start by talking about high level designs, including our initiatives of creating this interface. And in the following section, we talk about implementation details of the virtual space and the sound-making mechanism. Finally, we conclude our work by a demonstration video showing our work, Sonic Cure. We would like to view our work as a novel musical performance tool rather than an actual art installation. And we address this in the future work section. 
