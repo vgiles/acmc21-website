@@ -123,7 +123,7 @@ Csound is a sound and music computing system that is a direct descendant of the 
 
 ### Additional Information for Participants
 
-The basic Cabbage installation includes Csound and can be found at [https://cabbageaudio.com/download/]
+The basic Cabbage installation includes Csound and can be found at [This Link](https://cabbageaudio.com/download/)
 
 
 # Mutatis Mutandis: Using Computational Thinking to Interpret Scores by Herbert Brün  
