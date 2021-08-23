@@ -36,7 +36,6 @@ General correspondence for ACMC21 should be sent to conference@computermusic.org
 # Getting Started in Visual Music and AudioVisual Improv
 
 ## [Mark Pedersen](mailto:mark@chailight.com) and Brigid Burke
-### Moderator: Janvi Jogal
 
 ## Abstract
 
@@ -65,6 +64,47 @@ Topics covered will include:
 * strategies for collecting and assembling raw material
 * the use of synthesis vs. concrete materials
 * strategies for audiovisual performance
+
+# Enter the Packetsphere: Environment-Aware Web Art. 
+## [Zak Argabrite](mailto:notprovided@null.null)
+ 
+## Abstract
+This paper addresses approaches to the web browser as an artistic medium, and how that artistic medium is inherently connected to the earth and the people who inhabit it. It focuses on a recent web art piece titled Packetsphere developed by two of the paper’s authors (Argabrite and Brown). The idea of the browser-as-medium is introduced by providing an overview of historical and contemporary examples of art on the web. The internet’s usage in art will then be further contextualized through an investigation into its real-world implications, with an emphasis placed on the wide-reaching environmental impacts and ethics of internet usage (especially for art). These two paths of inquiry will aid and be aided by an in-depth analysis of Packetsphere, a research-based creative output that focuses on salvaging historical expressions of the web while educating about its potential dangers. This is creatively delivered as an abstract travelogue-style journey through the physical infrastructure of the internet. Information about current realities and consequences of the internet with salvaged media and sounds of the historical web. Through this investigation a better understanding of the very real consequences of our virtual spaces will be met via a creative practice lens. 
+
+# Farm Music: A Collaboration with Junk.
+## [Bridget Johnson](mailto:b.d.johnson@massey.ac.nz)
+
+## Abstract
+The creation of collaborative works with non-musicians can often dictate new and different approaches to technology development and compositional strategies. This paper explores approaches to development of new music technology that is designed for, but removed from, a compositional process with non-musicians. It discusses the creative process for the development of a system for sonic actuation of farm junk that was part of the ‘Farm Music’ project installed at New Zealand’s Taranaki Arts Festival 2020. The paper looks at the actuation systems that were developed as well as compositional control systems for them. It also discusses the farm objects that were used in the installation and the considerations for actuation of farm junk in this public installation context. Farm Music was a collaboration with music therapist Chris O’Connor and producer Sally Barnett. The project engaged with community members with a focus on engaging men from local farms to focus on their mental health. A series of workshops were run by Chris O’Connor that encouraged the participants to look and listen for sounds in everyday objects. The participants then spent time collecting resonant objects from their farms and brought them to be part of the installation. The installation itself was designed to display the work that participants had completed as well as provide an opportunity for public engagement with the work and the sound making processes.  
+The systems developed for the work needed to be modular so that whatever junk was found and brought to the installation was able to be actuated. From a technical perspective, the project involved the development of three different actuation systems that aligned with different temporal approaches discussed by music O’Connor: a drone, a scribble, and a strike. In order to create these sounds, surface transducers were used to create drones, motors with soft striking mechanisms for scribbles, and solenoids for strikes. In order to keep all systems modular, they were designed to be attached to mic stands so that final settings of actuators could be flexible depending on the items at the installation.  
+The presentation discusses and shows the challenges and successes of working in this manner. Further, this presentation provides an as outline for conceptual and technical realizations of the work.  
+
+# Sonic Cure - Percussion Inspired Modular Synthesizer Interface in Augmented Reality
+## [Weitong Huang](mailto:notprovided@null.null)
+
+## Abstract
+This paper describes a synthesizer interface that can be controlled using basic physical interactions between virtual objects in HoloLens 2 with augmented reality (AR) technology. We start by talking about high level designs, including our initiatives of creating this interface. And in the following section, we talk about implementation details of the virtual space and the sound-making mechanism. Finally, we conclude our work by a demonstration video showing our work, Sonic Cure. We would like to view our work as a novel musical performance tool rather than an actual art installation. And we address this in the future work section. 
+
+### Description: 
+Sonic Cure is an art inspired musical interface created using the Augmented Reality (AR) technology on the Microsoft HoloLens 2. At the beginning of 2020, when the COVID-19 pandemic started, people around the world were forced to stay at home. The lockdown caused a lot of stress over the population. Japanese composer and artist Mr. Sakamoto Ryuichi published several percussive art pieces onto YouTube to help relief stress and meditation. I came across those pieces and thought it would be a great idea that we be able to do similar performances in a virtual space while also interacting with the surroundings. Therefore, we designed our work, Sonic Cure, to be using intuitive clashing and rubbing actions to create different sounds in AR space so as to provide such environment as well as creating connection between performer and audiences as they share the same physical space. 
+
+### Author Bios
+Weitong Huang: Fourth year Honours student studying a software engineering degree at the Australian National University (ANU). Weitong worked with Dr. Charles Martin in the Code/Creativity/Culture (C/C/C) Studio during the 2020 summer break in ANU’s Acton campus on the project.  
+
+### Credits
+Performer/Main Contributor: Weitong Huang 
+Supervisors: Dr. Charles Martin, Assoc/Prof. Henry Gardner 
+HoloLens 2 Support: Dr. Matt Adcock 
+DisunitySTSupport: Dr. Andrew Sorensen 
+Other Contributor: Yichen Wang 
+
+# Josh Paton
+## Abstract
+JWPATON is a Yuin artist and musician currently living on Darug Country, Blue Mountains. Working with lofi field recordings, JWPATON creates layered, processed manipulations of original source material. By pushing the limitations of digital software and a minimal modular synth setup, he creates long form ambient soundtracks. 
+
+# Sze Tsang
+## Abstract
+The Lost is an audio-visual contemplation of the sensation of loss, and the subsequent feelings of dislocation. The work is based on a map of Perth from 1838, detailing many of Perth's now-lost wetlands, as well as a field recording from Herdman's Lake and sonified longitudinal and latitude values. The Lost is an exploration of connections between artist, history and place, and how these aspects can inform and intersect in a piece of work.  
 
 # Mutatis Mutandis: Using Computational Thinking to Interpret Scores by Herbert Brün  
 ## James Aylward 
