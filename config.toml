@@ -31,6 +31,10 @@ useBlog = true
 useTermynal = true
 [Params.Social]
 [[menu.main]]
+name = "Discord"
+url = "https://discord.gg/ga5DcUqP"
+weight = 5
+[[menu.main]]
 name = "Schedule"
 url = "https://schedule.acmc21.art"
 weight = 4
