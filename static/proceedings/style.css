@@ -164,7 +164,7 @@ h5 {
   margin: 0 auto;
   display: grid;
   padding: 10px;
-  grid-template-columns: 300px auto;
+  grid-template-columns: 400px auto;
   grid-gap: 30px;
   align-items: flex-start;
 }

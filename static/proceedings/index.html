@@ -15,7 +15,7 @@
   </head>
   <body>
     <main id="app" class="wrapper">
-      <aside class="sticky top-0 ml-0 pt-16">
+      <aside class="sticky top-0 ml-0 pt-0 text-base">
         <transition-group name="list" tag="ul" ref="links">
           <li v-for="(item, index) in activeHeadings" v-bind:key="item.id">
               <a @click="(e) => handleLinkClick(e, item.id)" :href="item.id" v-bind:class="{ 
@@ -26,7 +26,7 @@
           </li>
         </transition-group>
     </aside>
-    <div class="max-w-2xl content mt-32" v-html="compiledMarkdown" ref="content"></div>
+    <div class="max-w-2xl content mt-16" v-html="compiledMarkdown" ref="content"></div>
     </main>
       <script type="text/javascript" src="mdparse.js"></script>
       <script type="text/javascript">
