@@ -1,3 +1,12 @@
+---
+title: "ACMC2021 Proceedings"
+author: "Australasian Computer Music Association"
+subject: ""
+header-left: "ACMC2021: Proceedings"
+# footer-center: "Last Updated: \\today"
+csl: monash-university-harvard.csl
+---
+
 ![header image, text reads "acmc21: connections"](header.png)
 
 Proceedings of the Australasian Computer Music Conference 2021.
@@ -34,11 +43,11 @@ General correspondence for ACMC21 should be sent to [conference@computermusic.or
 
 [ACMA Website](https://computermusic.org.au)
 
-[1]: CSS Style adapted heavily from: [CSS Tricks](https://css-tricks.com/parsing-markdown-into-an-automated-table-of-contents/)
+[^1]: CSS Style adapted heavily from: [CSS Tricks](https://css-tricks.com/parsing-markdown-into-an-automated-table-of-contents/)
 
-[2]: Jekyll Schedule adapted from: [Four Kitchens](https://github.com/fourkitchens/jekyll-schedule)
+[^2]: Jekyll Schedule adapted from: [Four Kitchens](https://github.com/fourkitchens/jekyll-schedule)
 
-[3]: Main ACMC21 site layout for Hugo from: [KDevo](https://github.com/kdevo/osprey-delight)
+[^3]: Main ACMC21 site layout for Hugo from: [KDevo](https://github.com/kdevo/osprey-delight)
 
 # Keynote 1: Sarah Belle Reid 
 
