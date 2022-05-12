@@ -1,16 +1,22 @@
 ---
-title: "ACMC2021 Proceedings"
+title: "Proceedings of the Australasian Computer Music Conference 2021"
+subtitle: "Melbourne, Victoria, and Sydney, New South Wales: held online due to the ongoing COVID-19 pandemic"
 author: "Australasian Computer Music Association"
-subject: ""
+subject: "Test"
 header-left: "ACMC2021: Proceedings"
 # footer-center: "Last Updated: \\today"
 csl: monash-university-harvard.csl
+toc: true
+toc-own-page: true
+titlepage: true
+logo: "header.png"
+logo-width: 110mm
 ---
 
-![header image, text reads "acmc21: connections"](header.png)
+<!-- ![header image, text reads "acmc21: connections"](header.png) -->
 
-Proceedings of the Australasian Computer Music Conference 2021.
-Melbourne, Victoria, and Sydney, New South Wales: held online due to the ongoing COVID-19 pandemic.
+<!-- Proceedings of the Australasian Computer Music Conference 2021.
+Melbourne, Victoria, and Sydney, New South Wales: held online due to the ongoing COVID-19 pandemic. -->
 
 # Organising Committee
 
@@ -28,6 +34,18 @@ Daniel Markulic, Dylan Sullivan, Nadiah Jailani, James Ellender, Jean Yap, Jared
 
 ## Review Personnel
 Charles Martin, Benjamin Swift, Alexander Hunter, Ivan Zavada, Kit Devine, Shally Pais, Vicki Hallett, Massimo Avantaggiato, Diana Scarborough, David Rogerson, David Haberfeld, Lindsay Vickery, Katrina Grant, Terhi Nurmikko-Fuller, Cissi Tsang, Brigid Burke, Skot McDonald, Toby Gifford, Gerardo Dirie, Warren Burt, Aaron Wyatt, Mark Pedersen, Donna Hewitt, Roger Alsop, Edward Neeman, Liz Lea, Anna Terzaroli, Bridget Johnson, Robert Sazdov, Susan Frykberg, Nardi Simpson, James Barbour, Tom Connell, Margaret Schedel, Sophie Rose, Rachael Thoms, Kian Shayan, Dylan Davis, Jordan Lacey, David Kim-Boyle, David Hirst, Scott Davie, Alice Bennett, Carlos Lopez, Tim Kreger, Phillip Johnston, Adrian Bolland.
+
+### Statement of Review Process & Inclusion
+All abstracts for papers, concerts, talks, and other presentations were peer-reviewed by two independent assessors, and passed, for inclusion in the conference. To promote inclusion and diversity, the review process for presentation of any kind primarily examined the quality of the idea or art and its relation to the theme, and its capacity to redress inequality within the arts world. Consequently, nothing presented at ACMC2021 is automatically approved for inclusion in the ACMA Journal: Chroma. Any authors wishing to publish the same paper must undertake a separate, rigorous peer-review process for inclusion in that publication.
+
+### About Chroma
+Until 2006, Chroma was the newsletter of the ACMA. The publication was relaunched in 2021 as a fully peer-reviewed journal to accompany the annual Australasian Computer Music Conference (ACMC).
+
+Chroma is a fully open-access journal with articles provided under a Creative Commons Attribution License and Copyright retained by the authors.
+
+Authors of papers presented at the annual ACMC are encouraged to submit a fully realised version of their work to Chroma. We also welcome other submissions of articles concerning research and artistic progress in computer/electronic music.
+
+### General Credits
 
 All copyright remains with the authors.
 
@@ -65,6 +83,8 @@ Song Still Sovereign Now delivered by Neil Morris aka DRMNGNOW will explore the 
 
 # ACMA Annual General Meeting
 
+[Link to Minutes of the 2021 AGM](https://computermusic.org.au/minutes/agm_minutes2021.pdf)
+
 \(i\) Confirmation of 2020 AGM Minutes
 
 \(ii\) Presentation of Committee Reports
@@ -85,9 +105,7 @@ Association with the Act
 \(ix\) Other Business
 
 
-# Getting Started in Visual Music and AudioVisual Improv
-
-### Mark Pedersen and Brigid Burke
+# Mark Pedersen and Brigid Burke: Getting Started in Visual Music and AudioVisual Improv
 
 ## Abstract
 
@@ -108,8 +126,6 @@ advanced technical skills or knowledge will be encouraged to make room
 for newcomers and engage with a \"beginner\'s mind\" while exploring the
 audiovisual space as a way of refreshing their own creative practice.
 
-## More Information
-
 Topics covered will include:
 
 * building a sense of connection and reciprocity between audio and visual material
@@ -117,22 +133,19 @@ Topics covered will include:
 * the use of synthesis vs. concrete materials
 * strategies for audiovisual performance
 
-# Enter the Packetsphere: Environment-Aware Web Art. 
-### Zak Argabrite
+# Zak Argabrite: Enter the Packetsphere: Environment-Aware Web Art. 
  
 ## Abstract
 This paper addresses approaches to the web browser as an artistic medium, and how that artistic medium is inherently connected to the earth and the people who inhabit it. It focuses on a recent web art piece titled Packetsphere developed by two of the paper’s authors (Argabrite and Brown). The idea of the browser-as-medium is introduced by providing an overview of historical and contemporary examples of art on the web. The internet’s usage in art will then be further contextualized through an investigation into its real-world implications, with an emphasis placed on the wide-reaching environmental impacts and ethics of internet usage (especially for art). These two paths of inquiry will aid and be aided by an in-depth analysis of Packetsphere, a research-based creative output that focuses on salvaging historical expressions of the web while educating about its potential dangers. This is creatively delivered as an abstract travelogue-style journey through the physical infrastructure of the internet. Information about current realities and consequences of the internet with salvaged media and sounds of the historical web. Through this investigation a better understanding of the very real consequences of our virtual spaces will be met via a creative practice lens. 
 
-# Farm Music: A Collaboration with Junk.
-### Bridget Johnson
+# Bridget Johnson: Farm Music: A Collaboration with Junk.
 
 ## Abstract
 The creation of collaborative works with non-musicians can often dictate new and different approaches to technology development and compositional strategies. This paper explores approaches to development of new music technology that is designed for, but removed from, a compositional process with non-musicians. It discusses the creative process for the development of a system for sonic actuation of farm junk that was part of the ‘Farm Music’ project installed at New Zealand’s Taranaki Arts Festival 2020. The paper looks at the actuation systems that were developed as well as compositional control systems for them. It also discusses the farm objects that were used in the installation and the considerations for actuation of farm junk in this public installation context. Farm Music was a collaboration with music therapist Chris O’Connor and producer Sally Barnett. The project engaged with community members with a focus on engaging men from local farms to focus on their mental health. A series of workshops were run by Chris O’Connor that encouraged the participants to look and listen for sounds in everyday objects. The participants then spent time collecting resonant objects from their farms and brought them to be part of the installation. The installation itself was designed to display the work that participants had completed as well as provide an opportunity for public engagement with the work and the sound making processes.  
 The systems developed for the work needed to be modular so that whatever junk was found and brought to the installation was able to be actuated. From a technical perspective, the project involved the development of three different actuation systems that aligned with different temporal approaches discussed by music O’Connor: a drone, a scribble, and a strike. In order to create these sounds, surface transducers were used to create drones, motors with soft striking mechanisms for scribbles, and solenoids for strikes. In order to keep all systems modular, they were designed to be attached to mic stands so that final settings of actuators could be flexible depending on the items at the installation.  
 The presentation discusses and shows the challenges and successes of working in this manner. Further, this presentation provides an as outline for conceptual and technical realizations of the work.  
 
-# Sonic Cure - Percussion Inspired Modular Synthesizer Interface in Augmented Reality
-### Weitong Huang
+# Weitong Huang: Sonic Cure - Percussion Inspired Modular Synthesizer Interface in Augmented Reality
 
 ## Abstract
 This paper describes a synthesizer interface that can be controlled using basic physical interactions between virtual objects in HoloLens 2 with augmented reality (AR) technology. We start by talking about high level designs, including our initiatives of creating this interface. And in the following section, we talk about implementation details of the virtual space and the sound-making mechanism. Finally, we conclude our work by a demonstration video showing our work, Sonic Cure. We would like to view our work as a novel musical performance tool rather than an actual art installation. And we address this in the future work section. 
@@ -150,58 +163,51 @@ HoloLens 2 Support: Dr. Matt Adcock
 DisunitySTSupport: Dr. Andrew Sorensen 
 Other Contributor: Yichen Wang 
 
-# Point Blank
-### Josh Paton
+# Josh Paton: Point Blank
+
 ## Abstract
 JWPATON is a Yuin artist and musician currently living on Darug Country, Blue Mountains. Working with lofi field recordings, JWPATON creates layered, processed manipulations of original source material. By pushing the limitations of digital software and a minimal modular synth setup, he creates long form ambient soundtracks. 
 
-# The Lost
-### Sze Tsang
+# Sze Tsang: The Lost
+
 ## Abstract
 The Lost is an audio-visual contemplation of the sensation of loss, and the subsequent feelings of dislocation. The work is based on a map of Perth from 1838, detailing many of Perth's now-lost wetlands, as well as a field recording from Herdman's Lake and sonified longitudinal and latitude values. The Lost is an exploration of connections between artist, history and place, and how these aspects can inform and intersect in a piece of work.  
 
-# Artefacts
-### Daniel Markulic
+# Daniel Markulic: Artefacts
+
 ## Abstract
 As technology evolves so too does role of the composer. Instead of letting technology take roles from us, we should expand our borders of what being a composer encapsulates so that we can include these new technologies as a tool of composition, rather than a means of creation. This piece composes with less traditional elements of music and technology, mainly, artefacts –both digital and organic.  
 The score was created by allowing an Artificial Intelligence meant for creating realistic landscapes, to interpret a traditional score. The output is an abstract visual of images that feel simultaneously familiar and unfamiliar. The performer has been given rules on how to interact the score and create music from the images shown.  
 When exposed to any image an individual creates connections from both extrinsic and intrinsic factors, whether they be cultural or from learned experiences. Creating an image void of connections allows us to an understanding of what is absolutely necessary in a score, and what is just noise. 
 
-# Synth Building in CSound With the Cabbage Framework
-### Jon Christopher Nelson 
+# Jon Christopher Nelson: Synth Building in CSound With the Cabbage Framework
+
 ## Abstract
 
 Csound is a sound and music computing system that is a direct descendant of the MusicN family of computer music languages. It is an incredibly powerful and flexible coding environment. Cabbage is a framework that provides flexible graphic user interface widgets that can be used to control Csound code in real time. This workshop will provide an overview of the basic syntax of the Csound within Cabbage. Participants will learn how to create and modify a basic software synthesizer from a simple template. No previous experience with Csound or Cabbage is required, but participants are encouraged to download and install Cabbage on their own computer so they can actively participate in this session.  
 
-### Additional Information for Participants
-
 The basic Cabbage installation includes Csound and can be found at [This Link](https://cabbageaudio.com/download/)
 
 
-# Mutatis Mutandis: Using Computational Thinking to Interpret Scores by Herbert Brün  
-### James Aylward 
+# James Aylward: Mutatis Mutandis: Using Computational Thinking to Interpret Scores by Herbert Brün  
 
 ## Abstract
 This discussion examines the work Mutatis Mutandis (1968/1995) by early computer music pioneer, Herbert Brün (1918-2000).  Brün started his work with computer music in the late 1950s in Paris, then the WDR studio in Cologne and the Siemens studio in Munich.  In 1962 he was invited by Lejaren Hiller to join the faculty at the University of Illinois where he remained for the rest of his working life.  
 Next to music, Brün was also a computer graphic artist, a cybernetician, and actively interested in the political and social aspects of music and composition.  It is these elements that influence his work Mutatis Mutandis.  In this piece, Brün presents a number of computer generated graphics, but instead of treating these graphics like a score, performer is given instructions to “construct, by thought and imagination, the interpreter’s version of a structure that might leave the traces which the graphic displays.”  In this sense, he sought a means of stimulating the idea of structured process for the “composing interpreter” rather than simply an activity in attempted reconstruction.  This meta approach can challenge how we view the capability of computers to generate music and what graphic scores can communicate to the performer.  
 The author will document and reflect upon the process of preparation of this work for performance. In seeking to develop a version which best combines his creative talents within the bounds of the score, the author will try to develop a deeper understanding and what it means to creatively apply principles of “algorithmic thought” and “cybernetics” to an acoustic performance.  He will also present a recording of a performance of this piece that will demonstrate how computers can indirectly be used to inspire creativity. 
 
-### Author Biographies
-Text goes here.
 
-# Musica ex machina: integrating the sonic pallet of machines with acoustic instruments.
-### Lindsay Vickery 
+# Lindsay Vickery: Musica ex machina: integrating the sonic pallet of machines with acoustic instruments.
 
 ## Abstract
 
 Californian composer Robert Erickson was one of the first to directly search for the “music in non-musical sounds” as the inspiration of music with acoustic instruments and electronics. He pioneered the use of analog spectrography to visualise the shapes of complex sound objects. This paper examines the evolution of the practice integrating of pre-recorded mechanical sounds and acoustic instruments. The foundations of the practice of exploring mechanical sound sound as a subject for 'musical' investigation is discussed in relation to Modernist developments including Futurism and Musique Concrète. The discussion will focus on w orks from the last 50 years by Robert Erickson (1917-97), Barry Traux (1947-) Peter Ablinger (1959-), Annie Gosfield (1960-) , James Saunders (1972-) , Joanna Bailie (1973-) and the author.  Techniques employed by composers for combining mechanical sounds and acoustic instruments including spectral analysis, sonification, transcription, resynthesis and transformation will be considered. Issues regarding coordination and sound projection of live and pre-recorded elements will also be addressed.
 
-### Author Biographies
+### Author Biography
 
 Composer/performer   Vickery’s   music   includes   works   for   acoustic   and   electronic instruments in interactive- electronic, improvised or fully notated settings, ranging from solo pieces to opera and has been commissioned by numerous groups for concert, dance and  theatre. He  is  a  founder  member  of  ensembles  GreyWing  (2016-),  Decibel  (2009- ), HEDKIKR (2001- )  and  Magnetic  Pig  (1993- 2003). He writes and presents on a range of topics,  most  recently  on  the  emergence  of  the  “screenscore”,  nonlinear music  and  the realisation   of   Cage’s   music, in publications/conferences.   He   is   coordinator  of Composition  and  Music  Technology  at  the  WA  Academy  of  Performing  Arts  at  Edith Cowan University.
 
-# Discussion: Accessibility in Electronic Music
-### Chair: Alice Bennett
+# Discussion: Accessibility in Electronic Music [Chair: Alice Bennett]
 
 ## About
 
@@ -219,9 +225,7 @@ Born in 1982 in Hong Kong, **Sze Tsang** (they/them) is a nonbinary audio-visual
 
 **Sophie Rose** is a contemporary vocals lecturer at the Australian Institute of Music and a doctoral student at the University of Melbourne, Australia. She is a singer, extended vocal technique enthusiast, composer, improviser, performer, and maker. Originally from New Zealand, Rose incorporates Māori mythology into many works and creates new technologies with collaborator, Cloud Unknowing. She performs and collaborates with Sophie Rose & the Manual Breathing and surrealist music collective Little Songs of the Mutilated. Her exploration of the relationship between creative practice and technology development is ongoing. This concern is reflected in her master’s thesis, which explores the effects of physical and non-physical environments on extended vocal techniques and throat-singing as a creative practice.
 
-# Äú1002,Äù: A Collaborative Networked Performance with CollidePd
-
-### Federico Camara Halac and Federico Ragessi
+# Federico Camara Halac and Federico Ragessi: '1002': A Collaborative Networked Performance with CollidePd
 
 ## Abstract
 
@@ -242,9 +246,7 @@ research of this performance is based on the sonification of the musical
 gesture mediated by the mobile device, emphasizing the participatory
 movement of the performers
 
-# Clusters
-
-### Leon Liang
+# Leon Liang: Clusters
 
 ## Abstract
 
@@ -258,9 +260,7 @@ this material, the composer has developed small clusters of sound that
 expand into a mass of sonic chaos, almost like a musical representation
 of the current pandemic.
 
-# Framing the Shot: a reflection over a decade of Recording Live Instruments and Electronics
-
-### Stuart James
+# Stuart James: Framing the Shot: a reflection over a decade of Recording Live Instruments and Electronics
 
 ## Abstract
 This article is a reflection over a decade of recording methods explored
@@ -295,9 +295,7 @@ as an integrated tool throughout the editing process. Scoreplayer scores
 rendered as video can also be synchronized in the DAW allowing for
 precise editing of note onsets and offsets when required.
 
-# Approaches to generative composition with modular synthesis
-
-### Alex White
+# Alex White: Approaches to generative composition with modular synthesis
 
 ## Abstract
 
@@ -319,9 +317,7 @@ LiquidArchitecture, UTS and MESS.
 Synthesis. Australian Computer Music Association 2019, Melbourne,
 Australia.
 
-# The bedroom as studio space: creating and improving the acoustic environment for the purpose of audio engineering
-
-### Nadiah Jailani
+# Nadiah Jailani: The bedroom as studio space: creating and improving the acoustic environment for the purpose of audio engineering
 
 ## Abstract
 
@@ -339,9 +335,7 @@ a similar environment in a bedroom space. The improvement in room
 frequency was recorded on a software called Room EQ Wizard, to be
 visually seen.
 
-# Can the Roland SP404-SX be used as a complete tool for music production? An autoethnographic study of the process of creating music on the SP
-
-### Taiyo Shirai
+# Taiyo Shirai: Can the Roland SP404-SX be used as a complete tool for music production? An autoethnographic study of the process of creating music on the SP
 
 ## Abstract
 
@@ -363,9 +357,7 @@ to supplement the SP, and further research would be required to
 investigate a more optimal workflow that could utilize the SP and its
 functions to the fullest potential.
 
-# Multimodal Soundscape Synthesis
-
-### Sergio Santiago Renteria Aguilar
+# Sergio Santiago Renteria Aguilar: Multimodal Soundscape Synthesis
 
 ## Abstract
 
@@ -391,9 +383,7 @@ interweaving creative practices in soundscape composition and multimodal
 learning techniques, we contribute to the discussion on the effects of
 the automation of creative labour.
 
-# Exploring aspects of place through sound mapping
-
-### Sze Tsang
+# Sze Tsang: Exploring aspects of place through sound mapping
 
 ## Abstract
 
@@ -418,9 +408,7 @@ this practice, the author aims to explore how sound and visual elements
 can combine and resonate with the other, and how such a practice can
 highlight the connections between artist and place.
 
-# Relevant Elephants -- The Dark Side of Baboons
-
-### Ash Walker
+# Ash Walker: Relevant Elephants -- The Dark Side of Baboons
 
 ## Abstract
 
@@ -433,7 +421,7 @@ on several theatre productions and am endlessly fascinated by the way a
 sound can evoke a certain mood. I also aim to explore the relationship
 between sound and mood in this performance.
 
-## More Information
+### More Information
 
 I will be using two synths: a Roland TB3 and either a Roland Gaia or an
 MC 808 Groove Box. (tbc) Both need to be plugged into a Power Point and
@@ -452,9 +440,7 @@ day. This performance will also contribute to interspecies diversity,
 with my two stuffed elephants appearing with me on stage. But they, too,
 would rather just get the hell on with the music!
 
-# Higher Ground
-
-### Nancy Laver
+# Nancy Laver: Higher Ground
 
 ## Abstract
 
@@ -488,9 +474,7 @@ its theoretical vision to paper, growing the seed through practical
 ongoing research and planning, and discovering unique compositional
 techniques to achieve the vision for the piece.
 
-# Rethinking the analog-digital dichotomy through the lens of contemporary modular synthesiser practice
-
-### Alex White
+# Alex White: Rethinking the analog-digital dichotomy through the lens of contemporary modular synthesiser practice
 
 ## Abstract
 
@@ -529,9 +513,7 @@ modular synthesiser musicians and designers, this paper and presentation
 describes and analyses experiences that mutate and complexify analog and
 digital circuitry understandings in a music technology context. 
 
-# DreamSound: Deep Activation Layer Sonification
-
-### Federico Camara Halac 
+# Federico Camara Halac: DreamSound: Deep Activation Layer Sonification
 
 ## Abstract
 
@@ -546,14 +528,10 @@ musical context, is presented as the first translation that uses an
 audio-trained network, YAMNet. The results are analyzed in detail, and
 future work is discussed.
 
-## More Information
-
 As an appendix, a python package for DreamSound is presented with its
 help files. [Click here](https://github.com/fdch/dreamsound)
 
-# Studio-As-Instrument -- Honeysmack's approach to composing electronic dance music
-
-### David Haberfeld
+# David Haberfeld: Studio-As-Instrument -- Honeysmack's approach to composing electronic dance music
 
 ## Abstract
 
@@ -593,9 +571,7 @@ David recently completed his PhD in music composition at the Sir Zelman
 Cowen School of Music, Monash University. Titled: Bacharach, Britney and
 Acid Techno Bangers: The Evolving Compositional Practice of Honeysmack.
 
-# Rise: A metaperceptual design approach case study
-
-### Blake Johnson
+# Blake Johnson: Rise: A metaperceptual design approach case study
 
 ## Abstract
 
@@ -617,9 +593,7 @@ that its production is physical, which changes the ways in which the
 audience can engage and investigate the creation of the illusion, and in
 doing so, the veracity of their experience
 
-# Post-Politics and the Aesthetic Imagination Proposal; Dissensus, Refusal and Participatory Music: Negation and Rupture in Crowd in C
-
-### Eric C Lemmon
+# Eric C Lemmon: Post-Politics and the Aesthetic Imagination Proposal; Dissensus, Refusal and Participatory Music: Negation and Rupture in Crowd in C
 
 ## Abstract
 
@@ -661,9 +635,7 @@ Through the excavation of these moments within select participatory
 music, I will put post-political critique and cybernetic systems in
 conversation with the aesthetic consequences of rupture and refusal
 
-# Ode to My Frayed Nerves: Exploring Physical Trauma through Gestural Control in Surround Sound Environments.
-
-### Sophie Rose
+# Sophie Rose: Ode to My Frayed Nerves: Exploring Physical Trauma through Gestural Control in Surround Sound Environments.
 
 ## Abstract
 
@@ -696,9 +668,7 @@ and therefore also écriture féminine, lens to document the interactions
 and assist in fleshing out the academic canon to normalize, diversify,
 and divulge non-masculine perspectives and experiences.
 
-# Tangible Real-time Embodiment and Virtual Object Response (TREVOR): Towards a low-cost and immersive virtual reality Ambisonic environment.
-
-### Cloud Unknowing
+# Cloud Unknowing: Tangible Real-time Embodiment and Virtual Object Response (TREVOR): Towards a low-cost and immersive virtual reality Ambisonic environment.
 
 ## Abstract
 
@@ -725,9 +695,7 @@ and flow. This initial phase is exploratory research for the physical
 and software design integration of a larger Ambisonic audio and visual
 toolset.
 
-# FerroChord: A Novel System for Spatialised Electro-Acoustic Performance.
-
-### Robbie Pattinson
+#  Robbie Pattinson: FerroChord: A Novel System for Spatialised Electro-Acoustic Performance.
 
 ## Abstract
 
@@ -747,9 +715,7 @@ Situating itself in between the worlds of contemporary music composition
 and sound sculpture, FerroChord engages with a nuanced field of existing
 works from fields of luthierie, mechatronics and spatial audio.
 
-# Telemidi - the potential of exchanging MIDI across the Internet.
-
-### Matt Bray
+# Matt Bray: Telemidi - the potential of exchanging MIDI across the Internet.
 
 ## Abstract
 
@@ -787,9 +753,7 @@ within bespoke Telemidi networks, in each case being curated to suit the
 skills and capacity of performers, the characteristics of genre and to
 expedite the pursuit of networked musicality.
 
-# Lost Horizons, an immersive computer-based work integrating text, visual imagery, spatialized sound in performance.
-
-### Roger Alsop
+# Roger Alsop: Lost Horizons, an immersive computer-based work integrating text, visual imagery, spatialized sound in performance.
 
 ## Abstract
 
@@ -829,9 +793,7 @@ experience of the artists, and in doing so develop empathy for the
 universal variety of experiences of lockdown and consequent isolation,
 while breaking that isolation through shared experience.
 
-# Sonic Sculptural Staircase in Highly Immersive and World Aware Augmented Reality.
-
-### Yichen Wang
+# Yichen Wang: Sonic Sculptural Staircase in Highly Immersive and World Aware Augmented Reality.
 
 ## Abstract
 
@@ -882,18 +844,14 @@ revealed from user evaluations preliminarily support the effective-ness
 of utilizing such technology for the design of other augmented
 multi-sensory experiences for relevant communities.
 
-# Multichannel Monophonic Spatial Application
-
-### Jesse Austin-Stewart
+# Jesse Austin-Stewart: Multichannel Monophonic Spatial Application
 
 ## Abstract
 Exploring space within sound works has led to the creation of many varied spatial loudspeaker systems. The technology needed to create these systems is often beyond the means of individuals to recreate in their personal home or studio environment. To combat this, there have been a variety of applications designed to allow individuals to compose spatially for these systems in their own home by allowing them to listen to a simulation (often in stereo) of how their work would sound over a particular loudspeaker system. These applications are often designed, with particular systems in mind or at least place the listener in a fixed listening position. These applications don’t give the listener/composer the opportunity to simulate novel loudspeaker systems.
 
 This paper will review some of the applications designed to allow listeners/composers to simulate various loudspeaker arrays and will also introduce a new application designed by the author that allows for the simulation of novel 2-dimensional loudspeaker systems of up to 64 loudspeakers from various listening positions. In designing an application to simulate novel loudspeaker configurations, composition for novel non-traditional loudspeaker systems becomes much more accessible. The newly designed application also makes for simpler engagement with particular spatial composition approaches for those who are hard of hearing.
 
-# Time Scale Modulation in Electroacoustic Mridangam Performance.
-
-### Adrian Sherriff
+# Adrian Sherriff: Time Scale Modulation in Electroacoustic Mridangam Performance.
 
 ## Abstract
 
@@ -933,9 +891,7 @@ implementation of variable delay lines allows for a significant
 expansion of musical expression of this range these techniques into
 non-linear tempo domains.
 
-# Sounds of Sustainability
-
-### Ivan Zavada
+# Ivan Zavada: Sounds of Sustainability
 
 ## Abstract
 
@@ -977,8 +933,7 @@ envisaged that perhaps a student could join the Zoom chat to share their
 creative experience during the project and how it may have impacted on
 their own creative practice.
 
-# Apparitin
-### Donna Hewitt
+# Donna Hewitt: Apparition
 
 ## Abstract
 Apparition is a new audio-visual work for voice, electronics and alternate controllers including wearables and the eMic. The eMic is a modified microphone stand designed to capture the vocalist’s gestures and the interactions with the mic stand during the performance. The work merges voice, electronic and microphone captured sources and makes use of looping technology.
